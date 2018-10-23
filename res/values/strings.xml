@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CandidCamera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ButtonStartText">Старт</string>
+    <string name="ButtonStopText">Стоп</string>
+    <string name="label_path_text">Путь к папке для фотографий</string>
+    <string name="ButtonSaveText">Сохранить путь</string>
+
+</resources>
